@@ -1,0 +1,80 @@
+lt			显示垃圾箱文件
+rm			删除至垃圾箱
+cleartrash	清空垃圾箱
+
+ls -l(list)	详细属性
+   -a		所有属性
+ll			详细属性
+rm 	(remove)删除
+   -r		递归删除
+   -f		强制删除
+   -i		交互删除
+   -v		列出详细信息
+cp 			复制
+mv			移动，重命名
+gzip		压缩
+bzip2		压缩
+gunzip		解压缩
+tar 		打包
+    -cvf	打包，现实详细信息，以当前名字命名
+    -zcvf	用gzip打包并压缩
+    -jzvf	用bzip2打包并压缩
+    -zxvf	解压缩gzip
+    -jxvf	解压缩bzip2
+touch		创建文件，更新文件时间
+mkdir		创建目录(也叫文件夹)
+rmdir		删除空的文件夹
+cd			改变目录，或进入家目录
+su			改变用户
+shutdown	关机
+poweoff		关机
+logout		注销用户
+exit		注销用户
+reboot		重启
+halt		root用户关机
+file		查看文件类型
+whereis		查找文件
+locate		查找文件
+find -name	查找文件
+uname -a	系统内核
+whoami		显示登录用户
+who
+w
+stat		显示信息
+whatis		帮助
+
+ifconfig	查看网络配置
+netstat		查看详细网络配置
+ip
+ping +网址	查看联通量
+route		查看路由表
+
+df -h		以易读方式列出磁盘使用量
+   -k		以Kb方式列出
+du -h		列出文件使用量，文件挂载地方
+
+fdisk		磁盘分区，查看磁盘分区
+以BIOS启动的磁盘主分区最多4个，用扩展分区创建多个逻辑分区
+mkfs		格式化磁盘分区
+mke2fs		格式化磁盘分区
+
+top			动态显示进程
+kill		杀死进程
+bg			后台
+fg			前台
+jobs -l		显示进程与进程号
+
+passwd		修改密码
+usrmod		用户的权限
+usradd		添加用户
+groupadd	添加组
+chmod		修改文件或目录权限drwxrwxr--
+chgroup		修改文件或目录所属组
+chown		修改文件或目录所属用户
+umask		权限
+	
+>			删除并重新添加
+>>			添加
+2>			删除并添加错误信息
+2>>			添加错误信息
+|			管道
