@@ -1,0 +1,62 @@
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	// "expand_tabs_on_save": true,
+	"font_size": 13,
+	"hot_exit": false,
+	"show_encoding": true,
+	"tab_completion": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": "true",
+	"ignored_packages":
+	[
+		"Flask Completions",
+		"Vintage"
+	],
+	"theme": "Boxy Monokai.sublime-theme",
+	"theme_bar": true,
+	"theme_bar_logo_atomized": true,
+	"theme_find_panel_materialized": true,
+	"theme_find_panel_padding_xl": true,
+	"theme_find_panel_size_xs": true,
+	"theme_find_panel_size_xxs": true,
+	"theme_icon_button_highlighted": true,
+	"theme_panel_switcher_atomized": true,
+	"theme_sidebar_disclosure": true,
+	"theme_sidebar_folder_materialized": true,
+	"theme_sidebar_font_md": true,
+	"theme_sidebar_heading_bold": true,
+	"theme_sidebar_indent_top_level_disabled": true,
+	"theme_sidebar_indent_xl": true,
+	"theme_sidebar_size_xxs": true
+}
+
+插件：
+	A File Icon				可能和Boxy一起
+	Arduino-like IDE
+	Boxy Theme				很好的主题
+	BracketHightlighter		括号高亮
+	Color Highlighter		代码显示不同颜色，color picker
+	ConvertToUTF8			增加UTF8格式，GBK格式
+	Emmet					前端代码补全
+	FileDiffs				文件不同
+	Flask Completions		
+	Git			
+	GitGutter			
+	MarkdownEditing		
+	Package Control
+	PyV8					可能和其他的一起
+	SideBarEnhancements		侧边栏右键加强
+	SublimeCodeIntel		代码补全，很强大
+	SublimeREPL				交互式语言的交互界面，如Python
+	Verilog
+	VHDL
+	wxapp					微信小程序
+	zzz A File Icon zzz		可能和Boxy一起
+
+
+
+
+
+
